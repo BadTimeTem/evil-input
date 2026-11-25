@@ -1,24 +1,24 @@
-# <your project's name>
+# Temmie flakes simulator
 
 <!-- This README is the front door of your project: the gallery shows its first lines. -->
 
-## what it is
+## What it is
 
-<one or two sentences: what is your evil input?>
+This silly little thing awards you tem flakes.
 
-## what input it collects
+## What input it collects
 
-<text? a volume? a phone number? brightness? a time? and how does it make that miserable?>
+Clicks. It's that simple. One tem flake for every click.
 
-## screenshot
+## Screenshot
 
 <!-- drag a screenshot or a gif into this file on github.com to upload it -->
 ![screenshot](screenshot.png)
 
-## live
+## Live
 
-https://<your-github-name>.github.io/<this-repo>/
+https://badtimetem.github.io/evil-project/
 
-## how to run it
+## How to run it
 
 open `index.html` in a browser. that's it.
