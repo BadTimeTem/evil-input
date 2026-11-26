@@ -19,4 +19,4 @@ https://badtimetem.github.io/evil-project
 
 ## How to run it
 
-Ppen `index.html` in a browser. that's it.
+Open `index.html` in a browser. that's it.
