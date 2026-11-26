@@ -1,7 +1,5 @@
 # Temmie flakes simulator
 
-<!-- This README is the front door of your project: the gallery shows its first lines. -->
-
 ## What it is
 
 This silly little thing awards you tem flakes.
@@ -13,12 +11,12 @@ Clicks. It's that simple. One tem flake for every click.
 ## Screenshot
 
 <!-- drag a screenshot or a gif into this file on github.com to upload it -->
-![screenshot](screenshot.png)
+![screenshot](Screenshot%20From%202026-11-25%2019-23-09.png)
 
 ## Live
 
-https://badtimetem.github.io/evil-project/
+https://badtimetem.github.io/evil-project
 
 ## How to run it
 
-open `index.html` in a browser. that's it.
+Ppen `index.html` in a browser. that's it.
