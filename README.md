@@ -15,7 +15,7 @@ Clicks. It's that simple. One tem flake for every click.
 
 ## Live
 
-https://badtimetem.github.io/evil-input
+https://badtimetem.github.io/evil-project
 
 ## How to run it
 
